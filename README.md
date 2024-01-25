@@ -3,7 +3,7 @@ titanic
 
 titanic data science challenge
 
-Project Organization
+Project Organization structure
 ------------
 
     ├── LICENSE
