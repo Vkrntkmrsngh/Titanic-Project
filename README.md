@@ -3,8 +3,7 @@ titanic
 
 titanic data science challenge
 
-Project Organization structure
-------------
+Project Organization test
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
